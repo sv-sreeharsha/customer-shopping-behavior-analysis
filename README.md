@@ -17,6 +17,8 @@ transactions — from raw CSV to interactive Power BI dashboard.
 | `Data Base.sql` | 10 T-SQL business queries |
 | `Customer behavior dashboard.pbix` | Power BI dashboard file |
 | `Customer_Behavior_Documentation_BW.docx` | Full technical documentation |
+## 📊 Dashboard Preview
+![Customer Behavior Dashboard](Customer analysis Dashboard.png)
 
 ## 📊 Key Findings
 - Clothing drives **44% of total revenue**
