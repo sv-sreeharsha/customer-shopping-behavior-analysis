@@ -25,10 +25,3 @@ transactions — from raw CSV to interactive Power BI dashboard.
 
 ## 🔧 Tech Stack
 Python · SQL Server · Power BI · pandas · SQLAlchemy · T-SQL
-```
-
----
-
-## Your GitHub Link is Ready! 🔗
-```
-https://github.com/sv-sreeharsha/customer-shopping-behavior-analysis
