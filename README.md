@@ -6,7 +6,7 @@ transactions — from raw CSV to interactive Power BI dashboard.
 
 ## 🛠️ Tools Used
 - **Python** (pandas, SQLAlchemy, pyodbc) — Data cleaning & feature engineering
-- **SQL Server Express + T-SQL** — 10 business analytics queries
+- **SQL Server Express + SQL** — 10 business analytics queries
 - **Power BI Desktop** — Interactive dashboard with live SQL connectivity
 
 ## 📁 Project Files
@@ -14,7 +14,7 @@ transactions — from raw CSV to interactive Power BI dashboard.
 |------|-------------|
 | `CSB.py` | Exploratory data analysis script |
 | `Connect to Data Base.py` | Data cleaning & database upload pipeline |
-| `Data Base.sql` | 10 T-SQL business queries |
+| `Data Base.sql` | 10 SQL business queries |
 | `Customer behavior dashboard.pbix` | Power BI dashboard file |
 | `Customer_Behavior_Documentation_BW.docx` | Full technical documentation |
 ## 📊 Dashboard Preview
